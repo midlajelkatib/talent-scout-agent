@@ -19,7 +19,7 @@ Recruiters spend hours sifting through profiles and chasing candidate interest. 
 
 ##  Demo Video
 
-👉 [Watch the demo video here](#) *(add your Loom link here)*
+👉 [Watch the demo video here](#) https://drive.google.com/file/d/1i27mxNxptFhAM-6X-FWQSm7lPD4V5ziM/view?usp=sharing
 
 ---
 
