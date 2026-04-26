@@ -1,4 +1,4 @@
-# 🎯 AI Talent Scout Agent
+#  AI Talent Scout Agent
 
 An AI-powered talent scouting and engagement agent that takes a Job Description as input, discovers matching candidates, engages them conversationally to assess genuine interest, and outputs a ranked shortlist scored on two dimensions: **Match Score** and **Interest Score**.
 
@@ -6,7 +6,7 @@ An AI-powered talent scouting and engagement agent that takes a Job Description 
 
 ---
 
-## 🚀 What It Does
+##  What It Does
 
 Recruiters spend hours sifting through profiles and chasing candidate interest. This agent automates the entire pipeline:
 
@@ -17,13 +17,13 @@ Recruiters spend hours sifting through profiles and chasing candidate interest. 
 
 ---
 
-## 🎬 Demo Video
+##  Demo Video
 
 👉 [Watch the demo video here](#) *(add your Loom link here)*
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Job Description (Input)
@@ -64,7 +64,7 @@ Job Description (Input)
 
 ---
 
-## 📊 Scoring Logic
+##  Scoring Logic
 
 ### Match Score (out of 100)
 | Factor | Points |
@@ -92,7 +92,7 @@ Combined = (Match Score × 0.6) + (Interest Score × 0.4)
 
 ---
 
-## 💻 Local Setup
+##  Local Setup
 
 ### Prerequisites
 - Node.js v18 or higher
@@ -118,7 +118,7 @@ Open http://localhost:5173 in your browser.
 
 ---
 
-## 🧪 Sample Input & Output
+##  Sample Input & Output
 
 ### Sample Input (Job Description)
 ```
@@ -146,7 +146,7 @@ involves building scalable frontend systems.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 talent-scout/
@@ -160,6 +160,6 @@ talent-scout/
 
 ---
 
-## 👤 Author
+##  Author
 
-**Katib** — Built for AI Agent Hackathon 2026
+**Muhammed Midhilaj** — Built for AI Agent Hackathon 2026
